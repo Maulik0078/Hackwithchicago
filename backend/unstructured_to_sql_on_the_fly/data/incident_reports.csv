@@ -1,0 +1,6 @@
+"description","driver_id","incident_id","report_date","status","tracking_id","type","time","diff"
+"Minor collision, no injuries reported.","DRVR002","INC1002","2025-04-30","Under Investigation","TRK0002","Accident","1746298022772","1"
+"Reported theft of cargo during transit.","DRVR003","INC1003","2025-05-01","Pending","TRK0003","Theft","1746298022772","1"
+"Vehicle breakdown caused 2-hour delay.","DRVR001","INC1001","2025-04-28","Resolved","TRK0001","Delay","1746298130768","1"
+"Minor collision, no injuries reported.","D018","INC1002","2025-01-4","Reviewed","TRK0002","Accident","1746306293764","1"
+"Major collision, 3 people injured","D018","INC1009","2025-01-06","Reviewed","TRK0005","Accident","1746308714768","1"
