@@ -3,13 +3,17 @@ import React from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { DriverData } from '@/lib/mockData';
 
+import { getActiveDriverCount } from '@/utilities/loadingCSVData';
+
 interface StatCardsProps {
   driverData: DriverData[];
 }
 
 const StatCards: React.FC<StatCardsProps> = ({ driverData }) => {
   // Calculate stats
-  const activeDrivers = driverData.length;
+
+  //calculate active
+  const activeDrivers = getActiveDriverCount();
   const avgSpeed = driverData.length > 0 
     ? Math.round(driverData.reduce((sum, driver) => sum + driver.speed, 0) / driverData.length) 
     : 0;
