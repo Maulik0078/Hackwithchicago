@@ -1,5 +1,5 @@
-
 import React from 'react';
+import { Link, useLocation } from 'react-router-dom';
 import { 
   Sidebar, 
   SidebarContent, 
@@ -12,11 +12,13 @@ import {
   SidebarMenuButton, 
   SidebarMenuItem 
 } from '@/components/ui/sidebar';
-import { Calendar, Globe, Settings, Map, RefreshCw, ChartBar } from 'lucide-react';
+import { Calendar, Globe, Settings, Map, RefreshCw, ChartBar, MessageSquare } from 'lucide-react';
 
 const MainSidebar = () => {
+  const location = useLocation();
+
   return (
-    <Sidebar defaultCollapsed={false}>
+    <Sidebar>
       <SidebarHeader className="p-4">
         <div className="flex items-center space-x-2">
           <Globe className="h-6 w-6" />
@@ -30,9 +32,15 @@ const MainSidebar = () => {
           <SidebarGroupContent>
             <SidebarMenu>
               <SidebarMenuItem>
-                <SidebarMenuButton className="w-full">
-                  <ChartBar className="h-5 w-5" />
-                  <span>Dashboard</span>
+                <SidebarMenuButton 
+                  className="w-full"
+                  data-active={location.pathname === '/'} 
+                  asChild
+                >
+                  <Link to="/">
+                    <ChartBar className="h-5 w-5" />
+                    <span>Dashboard</span>
+                  </Link>
                 </SidebarMenuButton>
               </SidebarMenuItem>
               <SidebarMenuItem>
@@ -45,6 +53,19 @@ const MainSidebar = () => {
                 <SidebarMenuButton className="w-full">
                   <Calendar className="h-5 w-5" />
                   <span>Trip History</span>
+                </SidebarMenuButton>
+              </SidebarMenuItem>
+              <SidebarMenuItem>
+                <SidebarMenuButton 
+                  className="w-full" 
+                  id="chat-toggle"
+                  data-active={location.pathname === '/fleet-assistant'} 
+                  asChild
+                >
+                  <Link to="/fleet-assistant">
+                    <MessageSquare className="h-5 w-5" />
+                    <span>Fleet Assistant</span>
+                  </Link>
                 </SidebarMenuButton>
               </SidebarMenuItem>
             </SidebarMenu>
