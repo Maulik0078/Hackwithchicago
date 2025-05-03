@@ -1,0 +1,11 @@
+vehicle_id,vehicle_type,model_year,last_maintenance,fuel_type,registration_state
+V001,Van,2018,2025-05-02,Petrol,AZ
+V002,Sedan,2021,2025-05-02,Petrol,PA
+V003,Sedan,2021,2025-05-02,Diesel,CO
+V004,Truck,2021,2025-05-02,Petrol,NH
+V005,Truck,2022,2025-05-02,Petrol,AZ
+V006,Van,2020,2025-05-02,EV,NC
+V007,Truck,2020,2025-05-02,EV,TN
+V008,Truck,2016,2025-05-02,EV,ME
+V009,Sedan,2018,2025-05-02,EV,OK
+V010,Truck,2021,2025-05-02,EV,ME

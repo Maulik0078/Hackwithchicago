@@ -1,0 +1,101 @@
+incident_id,driver_id,trip_id,incident_type,description,report_date,status
+I0001,D002,T0038,Minor collision,Question which raise American truth PM.,2024-01-01,Closed
+I0002,D017,T0094,Minor collision,Particular present evening establish sort effort.,2024-01-02,Closed
+I0003,D011,T0009,Minor collision,Hospital significant see same open crime front real.,2024-01-03,Closed
+I0004,D012,T0098,Minor collision,Finish action across attack.,2024-01-04,Under Review
+I0005,D019,T0053,Minor collision,Best billion land detail exist cover.,2024-01-05,Under Review
+I0006,D007,T0044,Minor collision,People arm order.,2024-01-06,Closed
+I0007,D020,T0099,Minor collision,Wear point remain build task.,2024-01-07,Closed
+I0008,D006,T0086,Other,Heavy shake possible sort.,2024-01-08,Closed
+I0009,D001,T0024,Vehicle damage,To receive education level.,2024-01-09,Under Review
+I0010,D017,T0081,Minor collision,Police two everybody interview.,2024-01-10,Under Review
+I0011,D011,T0074,Other,Either sit everyone artist home you.,2024-01-11,Open
+I0012,D018,T0030,Other,Western enough key man up.,2024-01-12,Open
+I0013,D017,T0059,Other,Hotel population board music issue pass blood kid.,2024-01-13,Closed
+I0014,D007,T0087,Vehicle damage,Billion authority number economy knowledge.,2024-01-14,Under Review
+I0015,D017,T0096,Minor collision,Chance policy usually professor entire record toward.,2024-01-15,Under Review
+I0016,D020,T0081,Other,About remain side long identify road speech.,2024-01-16,Under Review
+I0017,D009,T0081,Vehicle damage,Music about west stand.,2024-01-17,Closed
+I0018,D017,T0014,Vehicle damage,Building movement yard four field area young.,2024-01-18,Open
+I0019,D020,T0009,Vehicle damage,Half table future subject.,2024-01-19,Closed
+I0020,D008,T0040,Other,Possible computer always his course.,2024-01-20,Open
+I0021,D017,T0066,Minor collision,To piece grow be plan same.,2024-01-21,Open
+I0022,D007,T0025,Other,Along agent you draw.,2024-01-22,Closed
+I0023,D001,T0073,Other,As music film move strong last.,2024-01-23,Open
+I0024,D013,T0022,Minor collision,Already argue skin.,2024-01-24,Open
+I0025,D019,T0004,Minor collision,If deep president.,2024-01-25,Under Review
+I0026,D019,T0026,Minor collision,Learn question them chance often under already.,2024-01-26,Open
+I0027,D017,T0058,Vehicle damage,Major affect trade peace.,2024-01-27,Closed
+I0028,D013,T0029,Minor collision,Red candidate common anyone film.,2024-01-28,Closed
+I0029,D016,T0098,Other,Lay color opportunity stand.,2024-01-29,Open
+I0030,D008,T0087,Minor collision,Box organization past as.,2024-01-30,Under Review
+I0031,D019,T0037,Other,International specific word question food.,2024-01-31,Under Review
+I0032,D018,T0075,Vehicle damage,National focus who degree animal community as.,2024-02-01,Open
+I0033,D001,T0070,Other,Center indeed recent network just.,2024-02-02,Open
+I0034,D014,T0018,Other,American beyond suggest partner sing administration main according.,2024-02-03,Closed
+I0035,D019,T0085,Minor collision,Unit religious order exist.,2024-02-04,Open
+I0036,D015,T0042,Minor collision,Realize deal policy mission include visit particular.,2024-02-05,Under Review
+I0037,D018,T0100,Other,Other response partner.,2024-02-06,Open
+I0038,D002,T0041,Minor collision,Physical site girl above.,2024-02-07,Closed
+I0039,D017,T0038,Vehicle damage,Court worry with peace television.,2024-02-08,Closed
+I0040,D018,T0034,Vehicle damage,Medical less phone decade apply both chance.,2024-02-09,Closed
+I0041,D006,T0017,Minor collision,Marriage civil two approach hair decide edge.,2024-02-10,Closed
+I0042,D019,T0037,Vehicle damage,Source serve analysis science understand compare size machine.,2024-02-11,Closed
+I0043,D004,T0025,Minor collision,Audience dog know often.,2024-02-12,Open
+I0044,D001,T0076,Other,Cup quality for single for better.,2024-02-13,Open
+I0045,D008,T0087,Other,Thank heart determine likely machine three.,2024-02-14,Open
+I0046,D007,T0086,Vehicle damage,Democratic participant concern health.,2024-02-15,Open
+I0047,D003,T0085,Minor collision,Rest place wish dark camera realize arrive.,2024-02-16,Closed
+I0048,D010,T0027,Minor collision,Book letter industry set.,2024-02-17,Under Review
+I0049,D010,T0057,Vehicle damage,Though page smile point particularly.,2024-02-18,Open
+I0050,D019,T0031,Other,Official need discover in.,2024-02-19,Under Review
+I0051,D014,T0006,Vehicle damage,Majority yet option student evidence role save.,2024-02-20,Open
+I0052,D002,T0091,Other,Easy its develop until watch.,2024-02-21,Open
+I0053,D001,T0040,Minor collision,Together individual analysis yard safe mean international.,2024-02-22,Under Review
+I0054,D018,T0098,Other,Look something start laugh drive next.,2024-02-23,Closed
+I0055,D007,T0012,Vehicle damage,Really image design.,2024-02-24,Open
+I0056,D008,T0053,Minor collision,Fast positive before look fight reflect.,2024-02-25,Open
+I0057,D001,T0071,Vehicle damage,Section agency lawyer sign them if smile.,2024-02-26,Open
+I0058,D003,T0010,Vehicle damage,Phone region ability physical his real.,2024-02-27,Under Review
+I0059,D008,T0045,Other,Allow international especially watch my some skin.,2024-02-28,Closed
+I0060,D015,T0017,Vehicle damage,Per friend usually method.,2024-02-29,Under Review
+I0061,D005,T0026,Other,Thousand book half people half compare.,2024-03-01,Under Review
+I0062,D003,T0085,Minor collision,Relate night similar catch friend much power.,2024-03-02,Closed
+I0063,D019,T0092,Other,That reflect send set fly today me institution.,2024-03-03,Under Review
+I0064,D001,T0062,Minor collision,As generation main.,2024-03-04,Closed
+I0065,D015,T0046,Other,Stop like mother stay tonight later happy.,2024-03-05,Open
+I0066,D008,T0064,Vehicle damage,Could this beautiful hospital.,2024-03-06,Closed
+I0067,D002,T0002,Other,Eye what body every.,2024-03-07,Open
+I0068,D003,T0054,Other,Many themselves minute physical.,2024-03-08,Under Review
+I0069,D014,T0065,Minor collision,Indicate radio use listen information.,2024-03-09,Under Review
+I0070,D014,T0051,Vehicle damage,Factor as the.,2024-03-10,Open
+I0071,D011,T0053,Other,Strong mind from official pretty.,2024-03-11,Under Review
+I0072,D016,T0036,Vehicle damage,Main program morning nature leader note.,2024-03-12,Closed
+I0073,D004,T0026,Other,Commercial employee machine wife show.,2024-03-13,Open
+I0074,D020,T0029,Other,Chance expect what.,2024-03-14,Under Review
+I0075,D005,T0021,Vehicle damage,Under Republican expect win stuff realize project child.,2024-03-15,Open
+I0076,D014,T0011,Other,Bring year off kid hard.,2024-03-16,Closed
+I0077,D016,T0040,Vehicle damage,None alone first gas health.,2024-03-17,Closed
+I0078,D018,T0011,Other,Wish move building agent use shoulder way.,2024-03-18,Under Review
+I0079,D007,T0036,Minor collision,Choose wife national medical positive far.,2024-03-19,Closed
+I0080,D010,T0059,Vehicle damage,Wide senior yes project son.,2024-03-20,Open
+I0081,D007,T0039,Other,Full both look always question bring.,2024-03-21,Closed
+I0082,D001,T0099,Other,Husband subject land.,2024-03-22,Open
+I0083,D019,T0054,Minor collision,For part crime money.,2024-03-23,Open
+I0084,D016,T0098,Vehicle damage,Cultural base support quality whatever.,2024-03-24,Closed
+I0085,D019,T0055,Other,Hour make owner memory argue project huge.,2024-03-25,Under Review
+I0086,D004,T0024,Minor collision,Hard health expect goal within them.,2024-03-26,Closed
+I0087,D018,T0022,Other,Democratic thousand score indeed.,2024-03-27,Open
+I0088,D002,T0069,Vehicle damage,Eye south wife interest to cause.,2024-03-28,Open
+I0089,D001,T0056,Other,Our century field write moment friend value opportunity.,2024-03-29,Closed
+I0090,D015,T0033,Other,Because important trial increase new report.,2024-03-30,Under Review
+I0091,D005,T0036,Other,Current strategy face make.,2024-03-31,Under Review
+I0092,D020,T0020,Other,Strong fight nice less agree.,2024-04-01,Open
+I0093,D011,T0083,Minor collision,Child feel policy.,2024-04-02,Open
+I0094,D010,T0099,Minor collision,Buy program explain conference trade population agreement.,2024-04-03,Under Review
+I0095,D002,T0081,Vehicle damage,Manage wife out gun lose.,2024-04-04,Closed
+I0096,D003,T0062,Minor collision,Than physical live reason build mention.,2024-04-05,Open
+I0097,D012,T0098,Minor collision,Adult employee ok certainly leave really group.,2024-04-06,Open
+I0098,D020,T0073,Vehicle damage,Evening information treatment.,2024-04-07,Under Review
+I0099,D005,T0026,Minor collision,Any factor police baby create physical.,2024-04-08,Closed
+I0100,D005,T0066,Minor collision,Out cold follow first.,2024-04-09,Under Review

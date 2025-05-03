@@ -1,0 +1,101 @@
+event_id,trip_id,event_type,timestamp,location,severity
+E0001,T0023,Rapid Acceleration,2024-01-01 00:00:00,West James,High
+E0002,T0018,Harsh Brake,2024-01-01 01:00:00,Joshuamouth,High
+E0003,T0038,Rapid Acceleration,2024-01-01 02:00:00,Lambertview,Low
+E0004,T0099,Rapid Acceleration,2024-01-01 03:00:00,East Joshua,Medium
+E0005,T0015,Harsh Brake,2024-01-01 04:00:00,New Anitaville,Medium
+E0006,T0064,Overspeed,2024-01-01 05:00:00,New Michael,Medium
+E0007,T0089,Overspeed,2024-01-01 06:00:00,Josephport,Medium
+E0008,T0028,Overspeed,2024-01-01 07:00:00,East Charles,Low
+E0009,T0074,Harsh Brake,2024-01-01 08:00:00,Amberton,High
+E0010,T0039,Rapid Acceleration,2024-01-01 09:00:00,North Thomas,Medium
+E0011,T0057,Overspeed,2024-01-01 10:00:00,North Patrickland,Low
+E0012,T0017,Overspeed,2024-01-01 11:00:00,Myersshire,Medium
+E0013,T0086,Harsh Brake,2024-01-01 12:00:00,Jensenport,Medium
+E0014,T0090,Overspeed,2024-01-01 13:00:00,Lisaside,Low
+E0015,T0044,Harsh Brake,2024-01-01 14:00:00,Port Kathyshire,High
+E0016,T0025,Rapid Acceleration,2024-01-01 15:00:00,North Lisa,High
+E0017,T0017,Harsh Brake,2024-01-01 16:00:00,Davisport,Low
+E0018,T0013,Harsh Brake,2024-01-01 17:00:00,Ruizbury,High
+E0019,T0084,Harsh Brake,2024-01-01 18:00:00,Port Paula,Low
+E0020,T0025,Harsh Brake,2024-01-01 19:00:00,Robertafurt,Low
+E0021,T0068,Rapid Acceleration,2024-01-01 20:00:00,Lake Samantha,Low
+E0022,T0010,Rapid Acceleration,2024-01-01 21:00:00,Kristinamouth,High
+E0023,T0067,Overspeed,2024-01-01 22:00:00,Freemanland,Low
+E0024,T0018,Rapid Acceleration,2024-01-01 23:00:00,Rodriguezfort,Medium
+E0025,T0100,Rapid Acceleration,2024-01-02 00:00:00,Singletonport,High
+E0026,T0086,Overspeed,2024-01-02 01:00:00,Cassandraberg,High
+E0027,T0034,Rapid Acceleration,2024-01-02 02:00:00,South Lisaville,High
+E0028,T0008,Harsh Brake,2024-01-02 03:00:00,Angelaland,High
+E0029,T0040,Harsh Brake,2024-01-02 04:00:00,Amandafurt,Medium
+E0030,T0083,Overspeed,2024-01-02 05:00:00,Allenbury,High
+E0031,T0042,Overspeed,2024-01-02 06:00:00,South Patrick,High
+E0032,T0041,Overspeed,2024-01-02 07:00:00,Jaredshire,Low
+E0033,T0006,Harsh Brake,2024-01-02 08:00:00,Muellerchester,High
+E0034,T0052,Rapid Acceleration,2024-01-02 09:00:00,Amybury,Medium
+E0035,T0026,Harsh Brake,2024-01-02 10:00:00,Lake Elizabeth,Medium
+E0036,T0064,Overspeed,2024-01-02 11:00:00,Wilsonmouth,Medium
+E0037,T0098,Rapid Acceleration,2024-01-02 12:00:00,Angelamouth,Medium
+E0038,T0059,Rapid Acceleration,2024-01-02 13:00:00,West Stephanie,High
+E0039,T0056,Harsh Brake,2024-01-02 14:00:00,New Danielfurt,High
+E0040,T0059,Overspeed,2024-01-02 15:00:00,Troyton,Medium
+E0041,T0070,Harsh Brake,2024-01-02 16:00:00,East Lisashire,Medium
+E0042,T0033,Rapid Acceleration,2024-01-02 17:00:00,Port Dwayneberg,High
+E0043,T0053,Harsh Brake,2024-01-02 18:00:00,Schmidtfurt,Medium
+E0044,T0022,Harsh Brake,2024-01-02 19:00:00,Gonzalezmouth,Low
+E0045,T0021,Overspeed,2024-01-02 20:00:00,Ashleyport,Medium
+E0046,T0070,Overspeed,2024-01-02 21:00:00,Robbinsstad,Medium
+E0047,T0070,Rapid Acceleration,2024-01-02 22:00:00,New Alanhaven,Low
+E0048,T0004,Harsh Brake,2024-01-02 23:00:00,Abbottport,Low
+E0049,T0094,Harsh Brake,2024-01-03 00:00:00,West Rachelton,High
+E0050,T0075,Harsh Brake,2024-01-03 01:00:00,Lake Annstad,High
+E0051,T0062,Rapid Acceleration,2024-01-03 02:00:00,Port Juliantown,Low
+E0052,T0062,Rapid Acceleration,2024-01-03 03:00:00,South Jacqueline,Low
+E0053,T0094,Overspeed,2024-01-03 04:00:00,Garrettfurt,High
+E0054,T0095,Overspeed,2024-01-03 05:00:00,Jamesside,Medium
+E0055,T0024,Overspeed,2024-01-03 06:00:00,Lake Glenn,Low
+E0056,T0055,Harsh Brake,2024-01-03 07:00:00,East Angela,High
+E0057,T0009,Harsh Brake,2024-01-03 08:00:00,Maryberg,Medium
+E0058,T0003,Overspeed,2024-01-03 09:00:00,Whitneyberg,Low
+E0059,T0031,Harsh Brake,2024-01-03 10:00:00,North Charles,Medium
+E0060,T0040,Overspeed,2024-01-03 11:00:00,East Jenniferfort,High
+E0061,T0036,Rapid Acceleration,2024-01-03 12:00:00,Proctorberg,Low
+E0062,T0024,Overspeed,2024-01-03 13:00:00,East Dawnchester,Medium
+E0063,T0095,Rapid Acceleration,2024-01-03 14:00:00,Englishchester,Low
+E0064,T0006,Harsh Brake,2024-01-03 15:00:00,South William,Medium
+E0065,T0066,Overspeed,2024-01-03 16:00:00,Cruzbury,High
+E0066,T0084,Harsh Brake,2024-01-03 17:00:00,South Cassandra,High
+E0067,T0092,Rapid Acceleration,2024-01-03 18:00:00,Bradfordbury,Low
+E0068,T0075,Rapid Acceleration,2024-01-03 19:00:00,Robertside,Medium
+E0069,T0004,Rapid Acceleration,2024-01-03 20:00:00,Arthurton,Low
+E0070,T0079,Harsh Brake,2024-01-03 21:00:00,Bushville,Low
+E0071,T0006,Harsh Brake,2024-01-03 22:00:00,Nixonland,Medium
+E0072,T0094,Harsh Brake,2024-01-03 23:00:00,Lake Jessica,Medium
+E0073,T0051,Harsh Brake,2024-01-04 00:00:00,Stevenland,Medium
+E0074,T0062,Rapid Acceleration,2024-01-04 01:00:00,East Thomasland,High
+E0075,T0057,Rapid Acceleration,2024-01-04 02:00:00,Chloemouth,Low
+E0076,T0066,Overspeed,2024-01-04 03:00:00,South Shawnfort,Low
+E0077,T0079,Overspeed,2024-01-04 04:00:00,Robertport,High
+E0078,T0075,Harsh Brake,2024-01-04 05:00:00,Garyport,Medium
+E0079,T0008,Rapid Acceleration,2024-01-04 06:00:00,Bryanfort,High
+E0080,T0026,Rapid Acceleration,2024-01-04 07:00:00,New Brett,High
+E0081,T0051,Rapid Acceleration,2024-01-04 08:00:00,Lisatown,High
+E0082,T0045,Overspeed,2024-01-04 09:00:00,Toddberg,Low
+E0083,T0044,Overspeed,2024-01-04 10:00:00,Port Kristenview,High
+E0084,T0005,Rapid Acceleration,2024-01-04 11:00:00,New Juan,Low
+E0085,T0070,Rapid Acceleration,2024-01-04 12:00:00,Alexisville,Low
+E0086,T0026,Rapid Acceleration,2024-01-04 13:00:00,New Joanne,Low
+E0087,T0068,Overspeed,2024-01-04 14:00:00,Woodburgh,Medium
+E0088,T0019,Rapid Acceleration,2024-01-04 15:00:00,Kimberlybury,Low
+E0089,T0084,Rapid Acceleration,2024-01-04 16:00:00,Whitehaven,Low
+E0090,T0097,Harsh Brake,2024-01-04 17:00:00,West Traceyberg,Medium
+E0091,T0020,Harsh Brake,2024-01-04 18:00:00,Port Tyler,Low
+E0092,T0012,Overspeed,2024-01-04 19:00:00,Townsendbury,High
+E0093,T0047,Rapid Acceleration,2024-01-04 20:00:00,Barberburgh,High
+E0094,T0001,Rapid Acceleration,2024-01-04 21:00:00,New Jessica,Low
+E0095,T0090,Harsh Brake,2024-01-04 22:00:00,Brianview,Medium
+E0096,T0014,Overspeed,2024-01-04 23:00:00,North Garyfurt,High
+E0097,T0064,Harsh Brake,2024-01-05 00:00:00,Turnerside,Medium
+E0098,T0038,Harsh Brake,2024-01-05 01:00:00,South Frances,Medium
+E0099,T0037,Harsh Brake,2024-01-05 02:00:00,Wellsberg,High
+E0100,T0011,Harsh Brake,2024-01-05 03:00:00,Smithmouth,Medium
