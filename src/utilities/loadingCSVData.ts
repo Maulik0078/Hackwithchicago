@@ -50,3 +50,19 @@ export function getActiveDriverCount(): number {
   return new Set(inProgress.map(t => t.driver_id)).size;
 }
 
+export function getTotalDistance(): number {
+  return tripTable.reduce((sum, trip) => {
+    // if your CSV column is called "distance_km":
+    const dist = typeof trip.distance_km === 'number'
+      ? trip.distance_km
+      : 0;
+
+    // OR, if your interface is `distance_miles`, uncomment this line instead:
+    // const dist = typeof trip.distance_miles === 'number'
+    //   ? trip.distance_miles
+    //   : 0;
+
+    return sum + dist;
+  }, 0);
+  
+}

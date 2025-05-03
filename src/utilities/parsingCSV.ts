@@ -24,7 +24,7 @@ export interface DriverInfo {
     vehicle_id: string;
     start_time: string;
     end_time: string;
-    distance_miles: number;
+    distance_km: number;
     trip_status: string;
   }
   
